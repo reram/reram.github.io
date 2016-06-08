@@ -32,21 +32,32 @@
     }
     
    ul {
-    list-style-type: none;
-    background-color: #FFF;
+    clear: left;
+    float: left;
+    list-style: none
+    margin: 0;
+    padding: 0;
+    position: relative;
+    left: 50%;
     text-align: center;
 }
 
 li {
-    display: inline;
-    margin: 0 1.15em;
+    display: block;
+    float: left;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    right: 50%;
 }
 
 li a {
     display: block;
+    margin: 0 0 0 1 px;
+    padding: 3px 10px;
     color: #545454;
     text-align: center;
-    padding: 14px 16px;
     text-decoration: none;
 }
 
