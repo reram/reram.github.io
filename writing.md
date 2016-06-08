@@ -3,7 +3,6 @@ layout: page
 title: Writing
 permalink: /writing/
 ---
-<!DOCTYPE html>
 <html>
 
 <ul>
