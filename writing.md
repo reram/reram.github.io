@@ -3,6 +3,8 @@ layout: page
 title: Writing
 permalink: /writing/
 ---
+<style>
+
 /* unvisited link */
 a:link {
     color: FFB600;
@@ -26,12 +28,14 @@ a:active {
     color: #FFC840;
 }
 
+</style>
+
 <html>
 
 <ul>
-  <li><a class="active" href="http://rhearamakrishnan.com">About</a></li>
-  <li><a href="http://rhearamakrishnan.com/writing">Writing</a></li>
-  <li><a href="http://rhearamakrishnan.com/contact">Contact</a></li>
+  <li><a class="active" href="http://rhearamakrishnan.com">ABOUT</a></li>
+  <li><a href="http://rhearamakrishnan.com/writing">WRITING</a></li>
+  <li><a href="http://rhearamakrishnan.com/contact">CONTACT</a></li>
 </ul>
 
   <body>
