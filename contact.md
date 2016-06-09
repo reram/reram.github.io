@@ -18,7 +18,8 @@ permalink: /contact/
 <h1>Rhea Ramakrishnan</h1>
 <p>
 
-
+<ul class="soc">
+</ul>
 
 </p>
 </section>
