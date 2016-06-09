@@ -6,9 +6,9 @@ permalink: /contact/
 <html>
 
 <ul>
-  <li><a class="active" href="http://rhearamakrishnan.com">About</a></li>
-  <li><a href="http://rhearamakrishnan.com/writing">Writing</a></li>
-  <li><a href="http://rhearamakrishnan.com/contact">Contact</a></li>
+  <li><a class="active" href="http://rhearamakrishnan.com">ABOUT</a></li>
+  <li><a href="http://rhearamakrishnan.com/writing">WRITING</a></li>
+  <li><a href="http://rhearamakrishnan.com/contact">CONTACT</a></li>
 </ul>
 
   <body>
@@ -18,16 +18,7 @@ permalink: /contact/
 <h1>Rhea Ramakrishnan</h1>
 <p>
 
-<center>
-<a class="twitter-timeline" 
-href="https://twitter.com/hashtagrhea"
-width="300"
-height="300">Tweets by hashtagrhea</a> 
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8">
-</script>
-</center>
 
-<br><br>
 
 </p>
 </section>
