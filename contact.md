@@ -19,7 +19,7 @@ permalink: /contact/
 <p>
 
 <center>
-<a href="mailto:reramakrishnan@gmail.com?Subject=Hey%20Rhea" target="_top">EMAIL</a>
+<a href="mailto:reramakrishnan@gmail.com?Subject=Hey%20Rhea" target="_top">EMAIL</a><br>
 <a href="https://www.facebook.com/reramakrishnan">FACEBOOK</a><br>
 <a href="https://twitter.com/hashtagrhea">TWITTER</a>
 </center>
