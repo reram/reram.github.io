@@ -85,17 +85,28 @@ a:active {
     color: #7A78F1;
 }
 
-footer {
-  margin: 0px auto;
-  padding-bottom: 60px;
-  width: 850px;
+/* footer */
+footer {margin: 0;
 }
-
+html, body {
+height: 100%;
+}
+.wrapper {
+min-height: 100%;
+height: auto !important;
+height: 100%;
+margin: 0 auto -4em;
+}
+.footer, .push {
+height: 4em;
+}
     </style>
     
         
-        {{content}}
-        <footer>&copy;2016</footer>
+   <div class="footer">
+     <p> &copy; 2016</p>
+   </div>     
+        
     
   </body>
 </html>
