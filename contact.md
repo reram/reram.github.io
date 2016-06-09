@@ -26,5 +26,12 @@ permalink: /contact/
 
 </p>
 </section>
-    <body>
+
+<div class="wrapper">
+    <div id="footer">
+        <center>&copy; 2016</center>
+    </div>
+</div>
+
+    </body>
 </html>
