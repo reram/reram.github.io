@@ -15,10 +15,11 @@ permalink: /contact/
 
 <section>
   
-<h1>Rhea Ramakrishnan</h1>
+<h2>Collaborate with me?</h2>
 <p>
 
 <center>
+<a href="mailto:reramakrishnan@gmail.com?Subject=Hey%20Rhea" target="_top">EMAIL</a>
 <a href="https://www.facebook.com/reramakrishnan">FACEBOOK</a><br>
 <a href="https://twitter.com/hashtagrhea">TWITTER</a>
 </center>
