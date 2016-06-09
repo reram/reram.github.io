@@ -3,6 +3,29 @@ layout: page
 title: Writing
 permalink: /writing/
 ---
+/* unvisited link */
+a:link {
+    color: FFB600;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: FFB600;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: #FFC840;
+    text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+    color: #FFC840;
+}
+
 <html>
 
 <ul>
