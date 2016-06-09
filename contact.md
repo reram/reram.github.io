@@ -19,9 +19,11 @@ permalink: /contact/
 
 <p>
 
+<h2>Drop into my DMs</h2><br><br><br>
 
-
-
+<a href="https://www.facebook.com/reramakrishnan">Facebook</a><br>
+<a href="https://twitter.com/hashtagrhea">Twitter</a><br>
+<a href="https://www.instagram.com/hashtagrhea/?hl=en">Instagram</a>
 
 </p>
 
