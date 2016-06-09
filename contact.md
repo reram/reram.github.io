@@ -19,7 +19,10 @@ permalink: /contact/
 
 <p>
 
-<b>Drop into my DMs</b><br><br><br>
+<a class="twitter-timeline"
+  href="https://twitter.com/hashtagrhea">
+Tweets by @hashtagrhea
+</a>
 
 <a href="https://www.facebook.com/reramakrishnan">Facebook</a><br>
 <a href="https://twitter.com/hashtagrhea">Twitter</a><br>
