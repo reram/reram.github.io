@@ -7,8 +7,8 @@ permalink: /writing/
 
 <ul>
   <li><a class="active" href="http://rhearamakrishnan.com">About</a></li>
-  <li><a href="http://rhearamakrishnan.com/projects">Writing</a></li>
-  <li><a href="http://rhearamakrishnan.com/35mm">Contact</a></li>
+  <li><a href="http://rhearamakrishnan.com/writing">Writing</a></li>
+  <li><a href="http://rhearamakrishnan.com/contact">Contact</a></li>
 </ul>
 
   <body>
