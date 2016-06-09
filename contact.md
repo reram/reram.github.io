@@ -19,10 +19,9 @@ permalink: /contact/
 
 <p>
 
-<a class="twitter-timeline"
-  href="https://twitter.com/hashtagrhea">
-Tweets by @hashtagrhea
-</a>
+<a class="twitter-timeline" href="https://twitter.com/hashtagrhea">Tweets by hashtagrhea</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<br><br>
 
 <a href="https://www.facebook.com/reramakrishnan">Facebook</a><br>
 <a href="https://twitter.com/hashtagrhea">Twitter</a><br>
