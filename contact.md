@@ -18,8 +18,8 @@ permalink: /contact/
 <h1>Rhea Ramakrishnan</h1>
 <p>
 
-<ul class="soc">
-</ul>
+<a href="https://www.facebook.com/reramakrishnan">FACEBOOK</a>
+<a href="https://twitter.com/hashtagrhea">TWITTER</a>
 
 </p>
 </section>
