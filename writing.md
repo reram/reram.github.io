@@ -7,20 +7,20 @@ permalink: /writing/
 
 /* unvisited link */
 a:link {
-    color: FFB600;
+    color: #FFB600;
     text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-    color: FFB600;
+    color: #FFB600;
     text-decoration: none;
 }
 
 /* mouse over link */
 a:hover {
     color: #FFC840;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 /* selected link */
