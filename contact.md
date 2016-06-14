@@ -21,7 +21,7 @@ permalink: /contact/
 <center>
 <a href="mailto:reramakrishnan@gmail.com?Subject=Hey%20Rhea" target="_top">EMAIL</a><br>
 <a href="https://www.facebook.com/reramakrishnan">FACEBOOK</a><br>
-<a href="https://twitter.com/hashtagrhea">TWITTER</a>
+<a href="https://www.linkedin.com/in/rhea-ramakrishnan-693047b2?trk=hp-identity-name">LINKEDIN</a>
 </center>
 
 </p>
