@@ -16,7 +16,7 @@ permalink: /contact/
 <section>
 
 <center>
-<img src="http://postimg.org/image/703yknre3/";> 
+<img src="http://s18.postimg.org/otak8m9fd/contact.png">
 </center>
   
 <h2>Collaborate with me?</h2>
