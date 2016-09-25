@@ -14,6 +14,10 @@ permalink: /contact/
   <body>
 
 <section>
+
+<center>
+<img src="http://postimg.org/image/703yknre3/"> 
+</center>
   
 <h2>Collaborate with me?</h2>
 <p>
