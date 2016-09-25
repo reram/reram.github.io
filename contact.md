@@ -15,13 +15,8 @@ permalink: /contact/
 
 <section>
 
-<center>
-<img src="http://s18.postimg.org/otak8m9fd/contact.png" style="width:510px;height:300px">
-</center>
 
-<center>
 <h2>Collaborate with me?</h2>
-</center>
 <p>
 
 <center>
