@@ -1,0 +1,121 @@
+.menu {
+position: relative:
+top:0;
+right:0;
+float:right;
+padding-right:2rem;
+word-spacing:3rem;
+}
+
+#menu-home {
+  position: absolute;
+  top: 0;
+  margin-left:2rem;
+}
+
+.menu a{
+	text-decoration: none;
+	color: rgba(255,255,255,0.0);
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: blue;
+}
+
+.menu a:hover {
+  text-decoration:none;
+  color:blue;
+}
+
+h1 a{
+  font-family:"Helvetica Neue",sans-serif !important;
+  font-size: 80px;
+  text-transform:uppercase;
+  line-height: 77px;
+  color: white;
+  -webkit-text-stroke-width:1px;
+  -webkit-text-stroke-color:blue;
+  margin-bottom: 40px;
+  display:block;
+  max-width: 600px;
+  text-decoration:none;
+  transition:0.2s;
+}
+
+h1 a:hover{
+  color:blue;
+}
+
+h1 a{
+  font-size:80px;
+  line-height:50px}
+}
+
+ul{
+  padding:0;
+  list-style-type:none;
+  font-family:'Roboto Mono', sans-serif;
+}
+
+#container{
+		position:relative;
+		border-top: 1px solid #0000ff;
+		top:6rem;
+		padding-top:6%;
+		margin-left:2rem;
+		margin-right:2rem;
+  }
+
+.right {
+	left:50%;
+	position:absolute;
+	width:30%;
+	bottom:0;
+	height:30rem;
+	padding-right:.5rem;
+	float:left;
+	padding-left:2rem;
+	overflow:scroll;
+}
+
+.left {
+	position:relative;
+	max-width:50%;
+	padding-right:1.5rem;
+}
+
+.middle {
+	left:20%;
+	position: relative;
+	width:45%;
+	overflow:scroll;
+	padding-right:.5rem;
+	height:30rem;
+	bottom:0;
+	float:left;
+}
+
+h3{
+  font-family: 'Roberto Mono', sans-serif;
+  color:blue;
+	margin:0;
+	font-size:3rem;
+	letter-spacing: .5rem;
+}
+
+p{
+  font-family:'Courier', monospace;
+  line-height:28px;
+  max-width:750px
+}
+
+a{
+  text-decoration: none;
+	color: rgba(255,255,255,0.0);
+  font-size:2rem;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: blue;
+}
+
+a:hover {
+  text-decoration:none;
+  color:blue;
+}
